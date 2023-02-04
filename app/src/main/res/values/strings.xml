@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="CaliAqui">Pon tu Calificacion Aqui :</string>
+    <string name="enviar">ENVIAR</string>
+</resources>
